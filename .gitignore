@@ -1,0 +1,6 @@
+api/node_modules
+api/.env
+client/.env
+client/node_modules
+dashboard/.env
+dashboard/node_modules
